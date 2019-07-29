@@ -1,7 +1,7 @@
 [package]
-name = "server"
+name = "multicam-server"
 version = "0.1.0"
-authors = ["Leo Wilson <leo.wilson.xlw123@gmail.com>"]
+authors = ["Leo Wilson <leowilson.xlw123@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
